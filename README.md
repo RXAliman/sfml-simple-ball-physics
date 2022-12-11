@@ -3,5 +3,7 @@ A Simple Ball Trajectory/Physics Simulator using Simple and Fast Multimedia Libr
 
 # Controls
 Esc - Close program
+
 Spacebar - Reset ball
+
 Left-click ball & Drag - Set direction and speed of ball
